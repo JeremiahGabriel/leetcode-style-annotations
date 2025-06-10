@@ -4,13 +4,17 @@ This repository contains five carefully selected algorithmic problems implemente
 
 The goal: showcase clarity, precision, and problem-solving skill — as expected in technical roles requiring data annotation and algorithm understanding.
 
+---
+
 ## 🧠 Problems Covered
 
-1. `two_sum_explained.py` — Hash table solution for classic Two Sum problem  
-2. `valid_parentheses_traced.py` — Stack-based approach to check balanced parentheses  
-3. `merge_sorted_arrays.py` — Merging two sorted arrays in O(n) time  
-4. `max_subarray_kadane.py` — Kadane’s algorithm for maximum subarray sum  
-5. `reverse_linked_list_steps.py` — Iterative and recursive reversal of a singly linked list
+1. **Two Sum** – Uses a hash map for O(n) lookup  
+2. **Valid Parentheses** – Tracks brackets with a stack  
+3. **Merge Sorted Arrays** – Combines two sorted arrays in linear time  
+4. **Maximum Subarray (Kadane’s)** – Finds max sum in O(n)  
+5. **Reverse Linked List** – Iterative reversal using pointers
+
+---
 
 ## 👤 Author
 
@@ -18,12 +22,17 @@ The goal: showcase clarity, precision, and problem-solving skill — as expected
 📧 [iamgabrieljeremiah@gmail.com](mailto:iamgabrieljeremiah@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeremiah-gabriel-a4b61a15b)
 
+---
+
 ## 🛠 Tools
 
 - Python 3
-- Problem-solving paradigms (greedy, divide & conquer, hashing, etc.)
-- Code annotations with clarity and structure
+- Algorithm design and analysis
+- Code annotations for clarity
+- GitHub for version control
+
+---
 
 ## 🔖 License
 
-Open-source under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](./LICENSE).
